@@ -1,6 +1,7 @@
 # Art-generator-from-song-lyrics
 
-# Example images
+* The model used in this project is the CC12M model from Google. Code/Paper can be found here : https://paperswithcode.com/dataset/cc12m
+# Example outputs
 The Devil in I - Slipknot
 ![The_Devil_in_I](https://user-images.githubusercontent.com/50658681/167303681-ee0f9238-9e20-4a2d-b00e-5296f2528db2.png)
 
@@ -10,10 +11,10 @@ Heart Shaped Box - Nirvana
 Enter Sandman - Metallica
 ![Enter Sandman 1](https://user-images.githubusercontent.com/50658681/167303691-762187b5-0abb-4f56-abbe-161c0ab52f36.png)
 
-Stairway to Heaven - Slipknot
+Stairway to Heaven - Led Zeppelin
 ![Stairway to Heaven](https://user-images.githubusercontent.com/50658681/167303693-05497532-ed97-4221-ba44-5996df090680.png)
 
-Stairway to Heaven - Slipknot
+Stairway to Heaven - Led Zeppelin
 ![Stairway to Heaven 2](https://user-images.githubusercontent.com/50658681/167303696-ce4ea96c-233d-4e2b-b8a0-92e822dd1c54.png)
 
 Hotel California - Eagles
