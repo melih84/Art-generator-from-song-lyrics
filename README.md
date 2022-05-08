@@ -1,6 +1,13 @@
 # Art-generator-from-song-lyrics
-
 * The model used in this project is the CC12M model from Google. Code/Paper can be found here : https://paperswithcode.com/dataset/cc12m
+
+# How to run the program for a song
+You just have to change this part in section 3
+
+![image](https://user-images.githubusercontent.com/50658681/167304411-414363e4-1eab-4f43-8645-15422766ffbb.png)
+
+
+
 # Example outputs
 The Devil in I - Slipknot
 ![The_Devil_in_I](https://user-images.githubusercontent.com/50658681/167303681-ee0f9238-9e20-4a2d-b00e-5296f2528db2.png)
