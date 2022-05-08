@@ -2,7 +2,7 @@
 * The model used in this project is the CC12M model from Google. Code/Paper can be found here : https://paperswithcode.com/dataset/cc12m
 
 # How to run the program for a song
-You just have to change this part in section 3
+You just have to change this part in section 3 and run all cells one by one.
 
 ![image](https://user-images.githubusercontent.com/50658681/167304411-414363e4-1eab-4f43-8645-15422766ffbb.png)
 
