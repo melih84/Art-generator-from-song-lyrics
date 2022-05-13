@@ -32,3 +32,8 @@ Stairway to Heaven - Led Zeppelin
 Hotel California - Eagles
 
 ![Hotel_California](https://user-images.githubusercontent.com/50658681/167303698-ea8f13ae-a0fe-4e2a-9bf6-7e67b56e4cb7.png)
+
+One - Metallica 
+
+![One](https://user-images.githubusercontent.com/50658681/168263768-c847d35c-1617-4392-bad3-e0e93f386273.png)
+
